@@ -40,7 +40,7 @@ public class RulesOf6005 {
         
         throw new RuntimeException("implement me!");
     }
-    
+    //
     /**
      * Main method of the class.
      * 
